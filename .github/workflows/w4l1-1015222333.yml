@@ -1,0 +1,7 @@
+name: w4l1
+on: workflow_dispatch
+jobs:
+  x:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo w4l1
